@@ -1,0 +1,20 @@
+20:28:55 NEW CHATROOM: franais
+20:38:55 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+20:48:55 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+20:58:55 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+21:08:55 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+21:18:55 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+21:28:55 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+21:38:55 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+21:48:55 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+21:58:55 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+22:08:55 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+22:18:55 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+22:28:55 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+22:38:55 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+22:48:55 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+22:58:55 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+23:08:55 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+23:18:55 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+23:28:55 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+16:43:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0

@@ -1,0 +1,84 @@
+11:46:23 NEW CHATROOM: lobby
+11:46:48 |j|~Nightmare Desire
+11:46:52 |c|~Nightmare Desire|LAWL
+11:47:12 |l|~Nightmare Desire
+11:47:14 |j|~Nightmare Desire
+11:50:41 |j| NoisyMango
+11:51:00 NoisyMango was promoted to Leader by Nightmare Desire.
+11:51:00 |N|&NoisyMango|noisymango
+11:56:16 (Nightmare Desire changed the roomintro.)
+11:56:23 |userstats|total:2|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:1|~:1
+11:57:50 |c|~Nightmare Desire|!roomintro
+11:57:50 |raw|<div class="infobox">###Server Staff### <a href="http://pastebin.com/4TRkEVQ4">http://pastebin.com/4TRkEVQ4</a> </div>
+12:00:06 |c|&NoisyMango|I found the server again that's free hosting and works well btw
+12:00:24 |c|&NoisyMango|I have to ask the owner or the person who set up the server how they solved a problem though
+12:01:22 |c|~Nightmare Desire|Is it light?
+12:01:23 |c|~Nightmare Desire|LOL
+12:01:58 |c|&NoisyMango|what?
+12:02:01 |c|&NoisyMango|and light?
+12:03:18 |c|~Nightmare Desire|http://lightshowdown-557.herokuapp.com-80.psim.us/
+12:06:23 |userstats|total:2|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:1|~:1
+12:10:53 |l|&NoisyMango
+12:10:59 |j|&NoisyMango
+12:11:41 |c|~Nightmare Desire|.
+12:12:25 |c|&NoisyMango|huh?
+12:12:53 |c|~Nightmare Desire|Nothing
+12:16:23 |userstats|total:2|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:1|~:1
+12:19:53 |l|&NoisyMango
+12:26:23 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+12:36:23 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+12:46:23 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+12:56:23 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+13:06:25 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+13:16:25 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+13:26:25 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+13:36:25 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+13:46:25 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+13:56:25 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+14:06:25 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+14:16:25 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+14:26:25 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+14:36:25 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+14:46:25 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+14:56:25 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+15:06:25 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+15:16:25 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+15:26:25 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+15:36:25 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+15:46:25 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+15:52:03 |l|~Nightmare Desire
+15:56:26 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+16:06:26 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+16:16:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+16:26:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+19:15:15 NEW CHATROOM: lobby
+19:19:17 |j|~Nightmare Desire
+19:19:21 |c|~Nightmare Desire|RIP
+19:25:15 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+19:35:15 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+19:45:15 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+19:55:15 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+20:05:15 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+20:15:15 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+20:25:15 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+20:35:15 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+20:45:15 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+20:55:15 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+21:05:15 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+21:15:16 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+21:25:16 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+21:31:22 |c|~Nightmare Desire|.
+21:31:26 |c|~Nightmare Desire|GAHHHHHHHHHHHH
+21:32:14 |c|~Nightmare Desire|Nurururururu
+21:32:21 |c|~Nightmare Desire|Alyanah tu vara
+21:32:37 |c|~Nightmare Desire|Des etopi nurarah mein sachish
+21:32:47 |c|~Nightmare Desire|Blah mishite
+21:32:51 |c|~Nightmare Desire|El yaouro
+21:32:55 |c|~Nightmare Desire|Cam uni
+21:33:03 |c|~Nightmare Desire|Vestergonas
+21:33:12 |c|~Nightmare Desire|Deromenedasacola
+21:33:16 |c|~Nightmare Desire|Mien sha
+21:33:19 |c|~Nightmare Desire|El a vonde
+21:33:28 |c|~Nightmare Desire|El go to sleepet a rar
+21:35:16 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+21:38:24 |L| nightmaredesire

@@ -1,0 +1,32 @@
+15:36:59 NEW CHATROOM: staff
+15:46:59 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+15:56:59 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+16:06:59 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+16:16:59 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+16:26:59 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+16:36:59 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+16:46:54 |j| Nightmare Desire
+16:46:59 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+16:56:59 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+17:06:59 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+17:16:59 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+17:26:59 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+17:36:59 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+17:46:59 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+17:56:59 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+18:07:00 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+18:17:01 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+18:27:01 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+18:37:01 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+18:47:01 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+18:57:01 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+19:07:01 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+19:17:01 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+19:27:01 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+19:37:01 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+19:47:01 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+19:57:01 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+19:59:17 |l| Nightmare Desire
+20:07:01 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+20:17:01 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+20:27:02 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0

@@ -1,0 +1,288 @@
+10:33:43 NEW CHATROOM: lobby
+10:35:30 |j| Shadow Arisen
+10:35:33 |c| Shadow Arisen|.
+10:36:35 |L| shadowarisen
+10:36:45 |j|~Nightmare Desire
+10:37:43 (Nightmare Desire changed the roomintro.)
+10:40:16 |j| Dark Bull Soaring
+10:40:21 |c| Dark Bull Soaring|hi
+10:41:36 Dark Bull Soaring was promoted to Administrator by Nightmare Desire.
+10:41:36 |N|~Dark Bull Soaring|darkbullsoaring
+10:42:20 |c|~Dark Bull Soaring|!pick community,league
+10:42:20 |raw|<div class="infobox"><em>We randomly picked:</em> community</div>
+10:43:02 (Dark Bull Soaring was demoted to regular user by Nightmare Desire.)
+10:43:02 |N| Dark Bull Soaring|darkbullsoaring
+10:43:03 |l| Dark Bull Soaring
+10:43:43 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+10:43:45 |j| Soaring Bull
+10:43:56 |c| Soaring Bull|hi
+10:44:01 |c| Soaring Bull|can you promote this alt
+10:44:07 |c| Soaring Bull|sorry for the inconvenience
+10:44:20 |c|~Nightmare Desire|it's fine
+10:44:26 Soaring Bull was promoted to Administrator by Nightmare Desire.
+10:44:26 |N|~Soaring Bull|soaringbull
+10:44:30 |c|~Soaring Bull|Thx friend
+10:44:41 Dark Bull Soaring was promoted to Voice by Soaring Bull.
+10:44:45 (Dark Bull Soaring was demoted to regular user by Soaring Bull.)
+10:44:47 |c|~Soaring Bull|K
+10:44:52 |c|~Soaring Bull|First
+10:44:55 |c|~Soaring Bull|https://dashboard.heroku.com/
+10:44:58 |c|~Soaring Bull|do the heroku thing
+10:44:59 |c|~Soaring Bull|pls?
+10:45:13 |c|~Soaring Bull|Do you know how to do it?
+10:45:50 |c|~Soaring Bull|/announce server name: Shadow 
+10:45:52 |c|~Soaring Bull|Okay?
+10:46:19 |c|~Nightmare Desire|?
+10:46:27 |c|~Nightmare Desire|idk how this thing works
+10:46:48 |c|~Soaring Bull|Which?
+10:46:59 |c|~Nightmare Desire|heroku node.js
+10:47:13 |c|~Soaring Bull|IC.
+10:47:27 |c|~Soaring Bull|Wait.
+10:47:29 |c|~Soaring Bull|Hold on.
+10:51:12 |j| piplupfan1
+10:51:16 |c| piplupfan1|Hi
+10:51:22 |c|~Nightmare Desire|hello
+10:52:19 |c| piplupfan1|I've been on this before
+10:52:40 |c| piplupfan1|My computer broke and I couldn't find it again
+10:53:33 |c|~Nightmare Desire|Ah
+10:53:43 |userstats|total:3|guests:0| :1|+:0|%:0|@:0|★:0|#:0|&:0|~:2
+10:53:45 |c|~Nightmare Desire|That's because I haven't been hosting for ages
+10:54:22 |c| piplupfan1|Oh
+10:54:28 |c| piplupfan1|Welcome back
+10:54:35 |c|~Nightmare Desire|tnx
+10:55:14 |c| piplupfan1|:D
+11:03:43 |userstats|total:3|guests:0| :1|+:0|%:0|@:0|★:0|#:0|&:0|~:2
+11:09:01 |c| piplupfan1|Anyone want to battle?
+11:09:52 |c|~Nightmare Desire|sure
+11:10:29 |b|battle-anythinggoes-12| piplupfan1|~Nightmare Desire
+11:13:43 |userstats|total:3|guests:0| :1|+:0|%:0|@:0|★:0|#:0|&:0|~:2
+11:14:18 |c| piplupfan1|Can we have a rematch?
+11:16:24 |b|battle-anythinggoes-13| piplupfan1|~Nightmare Desire
+11:20:02 |c| piplupfan1|What is the best pokemon favorite wise
+11:20:36 |l| piplupfan1
+11:21:16 |j| piplupfan1
+11:22:58 |l| piplupfan1
+11:23:14 |j| piplupfan1
+11:23:33 |l| piplupfan1
+11:23:43 |userstats|total:2|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:2
+11:24:04 |j| piplupfan1
+11:24:50 |c| piplupfan1|"/join server staff
+11:25:01 |l| piplupfan1
+11:33:43 |userstats|total:2|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:2
+11:43:43 |userstats|total:2|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:2
+11:53:43 |userstats|total:2|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:2
+11:57:53 |c|~Nightmare Desire|.
+12:03:43 |userstats|total:2|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:2
+12:08:04 |l|~Soaring Bull
+12:13:43 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+12:15:47 |l|~Nightmare Desire
+12:16:30 |j|~Nightmare Desire
+12:16:35 |c|~Nightmare Desire|dang
+12:16:37 |c|~Nightmare Desire|it
+12:23:43 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+12:33:43 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+12:43:43 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+12:53:43 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+12:56:40 |j|~Soaring Bull
+12:56:53 |c|~Soaring Bull|Hi
+12:56:59 |c|~Nightmare Desire|heyo
+12:57:15 |c|~Soaring Bull|Did u try the heroku
+12:59:13 |c|~Soaring Bull|>
+13:00:40 |c|~Nightmare Desire|I tried
+13:00:45 |c|~Nightmare Desire|and got nowhere at all
+13:00:59 |c|~Nightmare Desire|So i am waiting for a freind on another server to come on
+13:03:43 |userstats|total:2|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:2
+13:06:33 |j|%Angelpichu
+13:06:34 |c|%Angelpichu|hi
+13:07:33 |c|~Soaring Bull|who is your friend? night?
+13:08:38 |c|%Angelpichu|    yeah
+13:08:43 |c|%Angelpichu|lol
+13:08:47 |c|%Angelpichu|didnit know
+13:08:48 |c|~Soaring Bull|not you pichu
+13:08:53 |c|~Soaring Bull|i am asking night tell me.
+13:09:02 |c|%Angelpichu|lol
+13:13:43 |userstats|total:3|guests:0| :0|+:0|%:1|@:0|★:0|#:0|&:0|~:2
+13:23:43 |userstats|total:3|guests:0| :0|+:0|%:1|@:0|★:0|#:0|&:0|~:2
+13:25:51 |c|%Angelpichu|http://prntscr.com/6bbiya
+13:29:03 |c|%Angelpichu|night
+13:33:43 |userstats|total:3|guests:0| :0|+:0|%:1|@:0|★:0|#:0|&:0|~:2
+13:33:47 |c|~Nightmare Desire|what?
+13:43:43 |userstats|total:3|guests:0| :0|+:0|%:1|@:0|★:0|#:0|&:0|~:2
+13:49:33 |c|%Angelpichu|bull is asking u a questoin
+13:53:33 |c|~Soaring Bull|i gtcg
+13:53:39 |c|~Soaring Bull|will be back in an hour
+13:53:40 |l|~Soaring Bull
+13:53:43 |userstats|total:2|guests:0| :0|+:0|%:1|@:0|★:0|#:0|&:0|~:1
+13:56:57 |c|%Angelpichu|bye
+13:59:20 |c|~Nightmare Desire|ik
+14:03:43 |userstats|total:2|guests:0| :0|+:0|%:1|@:0|★:0|#:0|&:0|~:1
+14:13:43 |userstats|total:2|guests:0| :0|+:0|%:1|@:0|★:0|#:0|&:0|~:1
+14:22:00 |c|%Angelpichu|f
+14:23:43 |userstats|total:2|guests:0| :0|+:0|%:1|@:0|★:0|#:0|&:0|~:1
+14:27:24 |c|%Angelpichu|bull is coming
+14:27:41 |j|~Soaring Bull
+14:27:58 |c|~Soaring Bull|hi
+14:28:01 |c|%Angelpichu|hi bull
+14:28:13 |c|%Angelpichu|.
+14:28:28 |c|~Soaring Bull|hELLO
+14:32:02 |c|%Angelpichu|hello
+14:33:43 |userstats|total:3|guests:0| :0|+:0|%:1|@:0|★:0|#:0|&:0|~:2
+14:43:43 |userstats|total:3|guests:0| :0|+:0|%:1|@:0|★:0|#:0|&:0|~:2
+14:43:44 (Soaring Bull changed the roomdesc to: "This is the Lobbu".)
+14:43:46 (Soaring Bull changed the roomdesc to: "This is the Lobby".)
+14:47:46 |c|%Angelpichu|i wish i can change the roomdesc
+14:47:52 |c|%Angelpichu|but i am a driver
+14:48:08 (Angelpichu was demoted to Voice by Soaring Bull.)
+14:48:08 |N|+Angelpichu|angelpichu
+14:48:14 |c|~Soaring Bull|i will promote you again
+14:48:16 |c|~Soaring Bull|a bit later
+14:48:31 |N|~Nightmare Desire|nightmaredesire
+14:48:39 |c|+Angelpichu|why i was demoted
+14:49:21 |c|~Soaring Bull|Just for now
+14:49:29 |c|~Soaring Bull|i will promote you a bit later
+14:49:54 |c|+Angelpichu|-_-
+14:50:00 |c|+Angelpichu|!staff
+14:50:00 |raw|<div class="infobox"><a href="https://www.smogon.com/sim/staff_list">Pokemon Showdown Staff List</a></div>
+14:50:01 |c|+Angelpichu|lol
+14:50:04 |c|+Angelpichu|!u man
+14:50:30 |c|~Soaring Bull|i will do it
+14:50:36 |c|~Soaring Bull|after the server gets registered
+14:51:46 |c|+Angelpichu|-_-
+14:51:52 |c|+Angelpichu|but night prmotrf me
+14:52:24 |c|~Soaring Bull|Not now.
+14:52:32 |c|~Soaring Bull|I said i will so i will.
+14:52:40 |c|+Angelpichu|lol
+14:53:43 |userstats|total:3|guests:0| :0|+:1|%:0|@:0|★:0|#:0|&:0|~:2
+14:58:02 Angelpichu was promoted to Driver by Nightmare Desire.
+14:58:02 |N|%Angelpichu|angelpichu
+14:59:59 (Nightmare Desire changed the roomintro.)
+15:03:44 |userstats|total:3|guests:0| :0|+:0|%:1|@:0|★:0|#:0|&:0|~:2
+15:04:46 |c|%Angelpichu|thx
+15:04:52 |c|%Angelpichu|!roomintro
+15:04:52 |raw|<div class="infobox"><center><img src="http://fc01.deviantart.net/fs71/f/2011/030/9/f/versus_giratina_by_shadeofshinon-d38ftg7.png" width="500"height="500"></center><center><b><marquee>Welcome to <u>Our server</u>, A server where <u>Rules</u> apply and things can be done here without an issue! Do not ask for staff. To view staff members type "/join Server Staff". </marquee></div>
+15:05:07 |c|%Angelpichu|nice
+15:06:11 |c|%Angelpichu|nice intro
+15:06:18 |c|%Angelpichu|great job shadow
+15:06:19 |c|~Nightmare Desire|tnx
+15:06:22 |c|~Soaring Bull|Nice
+15:06:28 |c|%Angelpichu|i am the useless staff
+15:06:28 |c|%Angelpichu|lol
+15:06:48 |c|~Nightmare Desire|nah
+15:07:41 |c|%Angelpichu|but i cant really do nothing
+15:07:45 |c|~Soaring Bull|i will contribute with css and some getting people
+15:07:48 |c|~Soaring Bull|you can do one thing
+15:07:51 |c|~Soaring Bull|get people
+15:07:54 |c|~Soaring Bull|be active
+15:07:55 |c|%Angelpichu|ok
+15:09:02 |c|%Angelpichu|the part that suck i cant ban people
+15:09:25 |c|~Soaring Bull|you can lock people
+15:09:37 |c|~Nightmare Desire|^
+15:10:16 |c|%Angelpichu|ik
+15:10:23 |c|%Angelpichu|nightmare
+15:10:27 |c|~Nightmare Desire|//
+15:10:28 |c|~Nightmare Desire|?#
+15:10:44 |c|~Soaring Bull|i will mod you soon.
+15:10:47 |c|%Angelpichu|lol
+15:11:16 |c|~Soaring Bull|!uptime
+15:11:16 |raw|<div class="infobox">Uptime: <b>4 hours</b></div>
+15:11:40 |c|%Angelpichu|someoe may come
+15:12:15 |c|%Angelpichu|//
+15:13:07 |j| Starizardz
+15:13:11 |c| Starizardz|hi
+15:13:17 |c|~Nightmare Desire|hey
+15:13:45 |userstats|total:4|guests:0| :1|+:0|%:1|@:0|★:0|#:0|&:0|~:2
+15:13:53 |c|%Angelpichu|hey
+15:13:56 |c|%Angelpichu|got people
+15:14:08 |c|%Angelpichu|night this is my freind
+15:14:17 |c|~Nightmare Desire|ok
+15:19:10 |c|%Angelpichu|shoudl we have a restart
+15:19:25 |c|%Angelpichu|!uptime
+15:19:25 |raw|<div class="infobox">Uptime: <b>4 hours</b></div>
+15:22:51 |c|~Soaring Bull|Hi
+15:23:00 |c|~Soaring Bull|npe angel
+15:23:04 |c|~Soaring Bull|hi stari
+15:23:45 |userstats|total:4|guests:0| :1|+:0|%:1|@:0|★:0|#:0|&:0|~:2
+15:25:01 |c|%Angelpichu|ok
+15:33:45 |userstats|total:4|guests:0| :1|+:0|%:1|@:0|★:0|#:0|&:0|~:2
+15:38:31 |c|~Soaring Bull|??
+15:39:12 |c|~Nightmare Desire|??
+15:40:15 |c|~Soaring Bull|waiting for noisy mango
+15:40:26 |c|~Soaring Bull|nightmare do you only come during weekends?
+15:40:36 |c|~Nightmare Desire|not really
+15:40:48 |c|~Nightmare Desire|I just have stuff to do in the week
+15:41:06 |c|~Soaring Bull|ic.
+15:41:13 |c|~Soaring Bull|When you are off
+15:41:16 |c|~Soaring Bull|i will take care
+15:41:26 |c|~Soaring Bull|gimme power to promote people,
+15:41:29 |c|~Soaring Bull|i mean approval
+15:41:45 |c|%Angelpichu|lol
+15:42:06 |c|~Nightmare Desire|eh'
+15:42:10 |c|%Angelpichu|no asking for prmotoin
+15:42:20 |c|%Angelpichu|!roomintro
+15:42:20 |raw|<div class="infobox"><center><img src="http://fc01.deviantart.net/fs71/f/2011/030/9/f/versus_giratina_by_shadeofshinon-d38ftg7.png" width="500"height="500"></center><center><b><marquee>Welcome to <u>Our server</u>, A server where <u>Rules</u> apply and things can be done here without an issue! Do not ask for staff. To view staff members type "/join Server Staff". </marquee></div>
+15:42:40 |c|%Angelpichu|^ 
+15:43:45 |userstats|total:4|guests:0| :1|+:0|%:1|@:0|★:0|#:0|&:0|~:2
+15:45:47 |c|~Soaring Bull|i did not ask promotion idiot
+15:47:30 |c|%Angelpichu|lol
+15:47:32 |c|%Angelpichu|ik
+15:47:36 |c|%Angelpichu|but more power
+15:48:37 |c|~Soaring Bull|-_-
+15:48:44 |c|~Soaring Bull|Just an APPROVAL
+15:53:45 |userstats|total:4|guests:0| :1|+:0|%:1|@:0|★:0|#:0|&:0|~:2
+15:59:24 |c|%Angelpichu|dude calm down
+16:00:58 |c|~Soaring Bull|Kk
+16:01:26 |c|~Soaring Bull|NOISY MANGO WHY ISN'T HE COMINGGGGGGGGGGGG?
+16:03:45 |userstats|total:4|guests:0| :1|+:0|%:1|@:0|★:0|#:0|&:0|~:2
+16:05:24 |c|%Angelpichu|lol
+16:05:56 |c|%Angelpichu|watch the caps and the spam a bit dude
+16:13:30 |l| Starizardz
+16:13:45 |userstats|total:3|guests:0| :0|+:0|%:1|@:0|★:0|#:0|&:0|~:2
+16:16:54 |c|~Soaring Bull|gtg
+16:16:57 |c|~Soaring Bull|sleep
+16:16:58 |c|~Soaring Bull|bye
+16:17:20 |c|~Soaring Bull|hope noisy mango comes and make the server run in heroku
+16:17:20 |c|~Soaring Bull|bye
+16:17:22 |l|~Soaring Bull
+16:20:43 |c|%Angelpichu|bye
+16:20:51 |c|~Nightmare Desire|ok
+16:23:45 |userstats|total:2|guests:0| :0|+:0|%:1|@:0|★:0|#:0|&:0|~:1
+16:33:45 |userstats|total:2|guests:0| :0|+:0|%:1|@:0|★:0|#:0|&:0|~:1
+16:43:45 |userstats|total:2|guests:0| :0|+:0|%:1|@:0|★:0|#:0|&:0|~:1
+16:53:45 |userstats|total:2|guests:0| :0|+:0|%:1|@:0|★:0|#:0|&:0|~:1
+17:03:44 |c|%Angelpichu|lol
+17:03:45 |userstats|total:2|guests:0| :0|+:0|%:1|@:0|★:0|#:0|&:0|~:1
+17:13:45 |userstats|total:2|guests:0| :0|+:0|%:1|@:0|★:0|#:0|&:0|~:1
+17:17:19 |c|~Nightmare Desire|lol ok
+17:23:45 |userstats|total:2|guests:0| :0|+:0|%:1|@:0|★:0|#:0|&:0|~:1
+17:33:45 |userstats|total:2|guests:0| :0|+:0|%:1|@:0|★:0|#:0|&:0|~:1
+17:43:45 |userstats|total:2|guests:0| :0|+:0|%:1|@:0|★:0|#:0|&:0|~:1
+17:53:45 |userstats|total:2|guests:0| :0|+:0|%:1|@:0|★:0|#:0|&:0|~:1
+18:03:45 |userstats|total:2|guests:0| :0|+:0|%:1|@:0|★:0|#:0|&:0|~:1
+18:13:45 |userstats|total:2|guests:0| :0|+:0|%:1|@:0|★:0|#:0|&:0|~:1
+18:23:45 |userstats|total:2|guests:0| :0|+:0|%:1|@:0|★:0|#:0|&:0|~:1
+18:33:45 |userstats|total:2|guests:0| :0|+:0|%:1|@:0|★:0|#:0|&:0|~:1
+18:43:46 |userstats|total:2|guests:0| :0|+:0|%:1|@:0|★:0|#:0|&:0|~:1
+18:53:46 |userstats|total:2|guests:0| :0|+:0|%:1|@:0|★:0|#:0|&:0|~:1
+18:56:25 |c|%Angelpichu|g
+19:01:06 NEW CHATROOM: lobby
+19:01:16 |j|~Nightmare Desire
+19:01:27 |c|~Nightmare Desire|.
+19:07:42 Nightmare Desire was appointed Room Owner by Nightmare Desire.
+19:07:42 |N|#Nightmare Desire|nightmaredesire
+19:07:49 (Nightmare Desire was demoted to Room Voice by Nightmare Desire.)
+19:07:49 |N|+Nightmare Desire|nightmaredesire
+19:08:19 (Nightmare Desire was demoted to Room regular user by Nightmare Desire.)
+19:08:19 |N|~Nightmare Desire|nightmaredesire
+19:11:06 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+19:15:14 |j|%Angelpichu
+19:15:18 |c|%Angelpichu|lol
+19:15:44 |c|%Angelpichu|...........
+19:15:47 |c|%Angelpichu|gtg
+19:15:49 |c|%Angelpichu|bye
+19:15:54 |c|%Angelpichu|see ya
+19:15:58 |l|%Angelpichu
+19:21:06 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+19:31:06 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+19:41:06 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+19:51:06 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+19:59:59 |c|~Nightmare Desire|.

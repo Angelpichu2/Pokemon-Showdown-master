@@ -1,0 +1,33 @@
+15:42:31 NEW CHATROOM: serverstuff
+15:52:31 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+16:02:31 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+16:12:31 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+16:22:31 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+16:30:15 NEW CHATROOM: serverstuff
+16:40:15 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+16:50:15 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+17:00:15 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+17:10:15 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+17:20:15 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+17:30:15 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+17:40:15 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+17:50:15 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+18:00:15 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+18:10:15 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+18:20:15 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+18:30:16 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+18:40:17 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+18:50:17 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+19:00:17 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+19:10:17 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+19:56:02 NEW CHATROOM: serverstuff
+20:06:02 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+20:16:02 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+20:26:02 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+20:36:02 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+20:46:02 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+20:56:02 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+21:06:02 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+21:16:02 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+21:26:02 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+21:36:02 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0

@@ -1,0 +1,82 @@
+10:33:43 NEW CHATROOM: serverstaff
+10:43:43 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+10:48:18 |j|~Soaring Bull
+10:53:43 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+10:59:29 |j|#Nightmare Desire
+11:00:07 (Nightmare Desire changed the roomintro.)
+11:00:12 |l|#Nightmare Desire
+11:03:43 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+11:13:43 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+11:23:43 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+11:31:34 |j|#Nightmare Desire
+11:31:45 |l|#Nightmare Desire
+11:33:43 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+11:43:43 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+11:53:43 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+12:03:43 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+12:08:04 |l|~Soaring Bull
+12:13:43 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+12:23:43 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+12:33:43 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+12:43:43 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+12:53:43 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+12:56:59 |j|~Soaring Bull
+13:03:43 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+13:06:46 |j|%Angelpichu
+13:13:43 |userstats|total:2|guests:0| :0|+:0|%:1|@:0|★:0|#:0|&:0|~:1
+13:23:43 |userstats|total:2|guests:0| :0|+:0|%:1|@:0|★:0|#:0|&:0|~:1
+13:33:43 |userstats|total:2|guests:0| :0|+:0|%:1|@:0|★:0|#:0|&:0|~:1
+13:43:43 |userstats|total:2|guests:0| :0|+:0|%:1|@:0|★:0|#:0|&:0|~:1
+13:53:40 |l|~Soaring Bull
+13:53:43 |userstats|total:1|guests:0| :0|+:0|%:1|@:0|★:0|#:0|&:0|~:0
+14:03:43 |userstats|total:1|guests:0| :0|+:0|%:1|@:0|★:0|#:0|&:0|~:0
+14:13:43 |userstats|total:1|guests:0| :0|+:0|%:1|@:0|★:0|#:0|&:0|~:0
+14:23:43 |userstats|total:1|guests:0| :0|+:0|%:1|@:0|★:0|#:0|&:0|~:0
+14:29:40 |j|~Soaring Bull
+14:29:42 |l|~Soaring Bull
+14:33:43 |userstats|total:1|guests:0| :0|+:0|%:1|@:0|★:0|#:0|&:0|~:0
+14:43:43 |userstats|total:1|guests:0| :0|+:0|%:1|@:0|★:0|#:0|&:0|~:0
+14:48:08 |N|+Angelpichu|angelpichu
+14:49:34 |j|~Soaring Bull
+14:53:44 |userstats|total:2|guests:0| :0|+:1|%:0|@:0|★:0|#:0|&:0|~:1
+14:58:02 |N|%Angelpichu|angelpichu
+15:01:02 |j|#Nightmare Desire
+15:01:37 (Nightmare Desire changed the roomintro.)
+15:03:45 |userstats|total:3|guests:0| :0|+:0|%:1|@:0|★:0|#:0|&:0|~:2
+15:13:45 |userstats|total:3|guests:0| :0|+:0|%:1|@:0|★:0|#:0|&:0|~:2
+15:14:48 |j| Starizardz
+15:14:52 |c| Starizardz|lol
+15:23:45 |userstats|total:4|guests:0| :1|+:0|%:1|@:0|★:0|#:0|&:0|~:2
+15:30:35 |c|~Soaring Bull|!roomintro
+15:30:35 |raw|<div class="infobox"><b><u>Admins:</b></u> Nightmare Desire, Soaring Bull <b><u>Leaders: </b></u> <b><u>Moderators: </b></u> <b><u>Drivers: Angelpichu</b></u></div>
+15:33:45 |userstats|total:4|guests:0| :1|+:0|%:1|@:0|★:0|#:0|&:0|~:2
+15:43:45 |userstats|total:4|guests:0| :1|+:0|%:1|@:0|★:0|#:0|&:0|~:2
+15:44:02 (Nightmare Desire changed the roomintro.)
+15:53:45 |userstats|total:4|guests:0| :1|+:0|%:1|@:0|★:0|#:0|&:0|~:2
+16:03:45 |userstats|total:4|guests:0| :1|+:0|%:1|@:0|★:0|#:0|&:0|~:2
+16:13:30 |l| Starizardz
+16:13:45 |userstats|total:3|guests:0| :0|+:0|%:1|@:0|★:0|#:0|&:0|~:2
+16:17:22 |l|~Soaring Bull
+16:23:45 |userstats|total:2|guests:0| :0|+:0|%:1|@:0|★:0|#:0|&:0|~:1
+16:33:45 |userstats|total:2|guests:0| :0|+:0|%:1|@:0|★:0|#:0|&:0|~:1
+16:43:45 |userstats|total:2|guests:0| :0|+:0|%:1|@:0|★:0|#:0|&:0|~:1
+16:53:45 |userstats|total:2|guests:0| :0|+:0|%:1|@:0|★:0|#:0|&:0|~:1
+17:03:45 |userstats|total:2|guests:0| :0|+:0|%:1|@:0|★:0|#:0|&:0|~:1
+17:13:45 |userstats|total:2|guests:0| :0|+:0|%:1|@:0|★:0|#:0|&:0|~:1
+17:23:45 |userstats|total:2|guests:0| :0|+:0|%:1|@:0|★:0|#:0|&:0|~:1
+17:33:45 |userstats|total:2|guests:0| :0|+:0|%:1|@:0|★:0|#:0|&:0|~:1
+17:43:45 |userstats|total:2|guests:0| :0|+:0|%:1|@:0|★:0|#:0|&:0|~:1
+17:53:45 |userstats|total:2|guests:0| :0|+:0|%:1|@:0|★:0|#:0|&:0|~:1
+18:03:45 |userstats|total:2|guests:0| :0|+:0|%:1|@:0|★:0|#:0|&:0|~:1
+18:13:45 |userstats|total:2|guests:0| :0|+:0|%:1|@:0|★:0|#:0|&:0|~:1
+18:16:05 |c|%Angelpichu|lol
+18:23:45 |userstats|total:2|guests:0| :0|+:0|%:1|@:0|★:0|#:0|&:0|~:1
+18:33:46 |userstats|total:2|guests:0| :0|+:0|%:1|@:0|★:0|#:0|&:0|~:1
+18:43:46 |userstats|total:2|guests:0| :0|+:0|%:1|@:0|★:0|#:0|&:0|~:1
+18:53:46 |userstats|total:2|guests:0| :0|+:0|%:1|@:0|★:0|#:0|&:0|~:1
+19:01:06 NEW CHATROOM: serverstaff
+19:11:06 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+19:21:06 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+19:31:06 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+19:41:06 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+19:51:06 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0

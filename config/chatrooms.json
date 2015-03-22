@@ -1,0 +1,10 @@
+[
+{"title":"Lobby","isOfficial":true,"autojoin":true,"introMessage":"<center><img src=\"http://fc01.deviantart.net/fs71/f/2011/030/9/f/versus_giratina_by_shadeofshinon-d38ftg7.png\" width=\"500\"height=\"500\"></center><center><b><marquee>Welcome to <u>Our server</u>, A server where <u>Rules</u> apply and things can be done here without an issue! Do not ask for staff. To view staff members type \"/join Server Staff\". </marquee>","desc":"This is the Lobby","auth":{},"modchat":"autoconfirmed"},
+{"title":"Staff","isPrivate":true,"staffRoom":true,"staffAutojoin":true,"auth":{}},
+{"title":"Tournaments","auth":{"nightmaredesire":"#","angelpichu":"★"},"isOfficial":true,"desc":"Official Tournaments hosted here by staff and room staff"},
+{"title":"Français","auth":{"latios83":"#","kinglucario83":"@"}},
+{"title":"Spanish","auth":{"nightmaredesire":"#"}},
+{"title":"The Test Channel","auth":{"nightmaredesire":"#"}},
+{"title":"Livestreams","auth":{"nightmaredesire":"#"}},
+{"title":"Coding & Things","auth":{"nightmaredesire":"#"}}
+]

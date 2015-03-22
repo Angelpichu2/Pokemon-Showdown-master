@@ -1,0 +1,41 @@
+20:28:55 NEW CHATROOM: lobby
+20:29:08 |j| Shadow Arisen
+20:29:12 |c| Shadow Arisen|.
+20:29:16 |L| shadowarisen
+20:29:27 |j|~Nightmare Desire
+20:30:03 (Haunterghost was demoted to Leader by Nightmare Desire.)
+20:30:10 (Haunterghost was demoted to Voice by Nightmare Desire.)
+20:30:13 (Haunterghost was demoted to regular user by Nightmare Desire.)
+20:30:48 (Noisymango was demoted to Voice by Nightmare Desire.)
+20:30:50 (Noisymango was demoted to regular user by Nightmare Desire.)
+20:31:06 (Tukusado was demoted to Driver by Nightmare Desire.)
+20:31:32 (Nightmare Desire changed the roomintro.)
+20:32:05 (Nightmare Desire changed the roomintro.)
+20:37:11 (Nightmare Desire changed the roomintro.)
+20:38:19 (Nightmare Desire changed the roomintro.)
+20:38:45 (Nightmare Desire changed the roomintro.)
+20:38:55 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+20:48:55 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+20:58:55 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+21:08:55 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+21:17:15 |c|~Nightmare Desire|Hey
+21:17:16 |c|~Nightmare Desire|DIE
+21:17:31 |c|~Nightmare Desire|DIE DIE DIE IDE ID EI DID IDDI DID DID IDIDIDIDIDIIEIDIEIIDIEDIEIDIEIIDIEI
+21:17:34 |c|~Nightmare Desire|AHHHHHHHHHHH
+21:17:39 |c|~Nightmare Desire|Gahhhh
+21:17:41 |c|~Nightmare Desire|Meh
+21:18:55 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+21:28:55 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+21:38:55 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+21:48:55 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+21:58:55 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+22:08:55 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+22:18:55 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+22:28:55 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+22:38:55 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+22:48:55 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+22:58:55 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+23:08:55 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+23:18:55 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+23:28:55 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+16:43:57 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1

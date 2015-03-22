@@ -1,0 +1,301 @@
+09:59:19 NEW CHATROOM: lobby
+10:00:23 |j|~Nightmare Desire
+10:00:26 |c|~Nightmare Desire|LOL
+10:09:19 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+10:15:51 |L| nightmaredesire
+10:16:45 |j|~Nightmare Desire
+10:16:51 |c|~Nightmare Desire|.
+10:17:00 |L| nightmaredesire
+10:18:51 |j|~Nightmare Desire
+10:19:19 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+10:19:34 |c|~Nightmare Desire|l
+10:29:19 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+10:39:19 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+10:49:19 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+10:59:19 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+11:02:34 |L| nightmaredesire
+11:02:41 |j| Tukusado
+11:03:07 |N| Tukusado|tukusado
+11:03:19 |L| tukusado
+11:03:30 |j|~Nightmare Desire
+11:03:33 |c|~Nightmare Desire|.
+11:03:54 Tukusado was promoted to Moderator by Nightmare Desire.
+11:05:26 (Nightmare Desire changed the roomintro.)
+11:09:19 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+11:19:19 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+11:29:19 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+11:39:19 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+11:49:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+11:59:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+12:09:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+12:19:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+12:29:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+12:39:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+12:49:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+12:59:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+13:09:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+13:17:28 |c|~Nightmare Desire|AHAHHA
+13:19:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+13:29:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+13:39:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+13:49:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+13:59:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+14:09:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+14:19:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+14:29:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+14:39:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+14:49:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+14:59:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+15:09:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+15:19:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+15:29:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+15:39:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+15:49:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+15:59:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+16:09:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+16:19:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+16:29:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+16:39:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+16:49:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+16:59:14 |l|~Nightmare Desire
+16:59:20 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+16:59:24 |j|~Nightmare Desire
+16:59:54 |j|&NoisyMango
+17:00:40 |b|battle-customgame-1|&NoisyMango|~Nightmare Desire
+17:09:20 |userstats|total:2|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:1|~:1
+17:12:43 |c|~Nightmare Desire|GG mango
+17:13:00 |c|&NoisyMango|gg!
+17:19:20 |userstats|total:2|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:1|~:1
+17:29:20 |userstats|total:2|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:1|~:1
+17:39:20 |userstats|total:2|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:1|~:1
+17:49:20 |userstats|total:2|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:1|~:1
+17:59:20 |userstats|total:2|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:1|~:1
+18:09:20 |userstats|total:2|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:1|~:1
+18:18:46 |l|&NoisyMango
+18:19:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+18:29:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+18:39:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+18:40:44 |j| Latios83
+18:40:55 |c| Latios83|Hi !
+18:41:38 |j| RT HaunterGhost
+18:41:50 |N| HaunterGhost|rthaunterghost
+18:42:01 HaunterGhost was promoted to Administrator by Nightmare Desire.
+18:42:01 |N|~HaunterGhost|haunterghost
+18:42:22 |c| Latios83|:/
+18:42:37 |c|~Nightmare Desire|What?
+18:42:55 |c|~HaunterGhost|Nightmare Desire, you should add me on the staff list.
+18:43:42 |c|~HaunterGhost|xP
+18:43:59 |c| Latios83|Plagieur ! xP
+18:44:01 (Nightmare Desire changed the roomintro.)
+18:44:21 Latios83 was warned by HaunterGhost. (English)
+18:44:21 |unlink|latios83
+18:44:44 |c|~HaunterGhost|Do /join Français
+18:44:52 |c|~HaunterGhost|For talking French.
+18:45:35 |c| Latios83| /join Français
+18:48:07 |l| Latios83
+18:48:10 |j| Latios83
+18:48:29 |c|~Nightmare Desire|.
+18:49:20 |userstats|total:3|guests:0| :1|+:0|%:0|@:0|★:0|#:0|&:0|~:2
+18:49:21 |c| Latios83|& me !
+18:49:24 |c| Latios83|XDF
+18:49:30 |c| Latios83|No & pls ?
+18:49:48 |c|~Nightmare Desire|Nope
+18:49:54 |c|~Nightmare Desire|we need a driver
+18:50:01 |c|~Nightmare Desire|So ur getting that
+18:50:12 Latios83 was promoted to Driver by Nightmare Desire.
+18:50:12 |N|%Latios83|latios83
+18:50:19 |c|%Latios83|Ty.
+18:51:02 (Nightmare Desire changed the roomintro.)
+18:52:07 |N| Latios83|latios83
+18:52:45 |c|~HaunterGhost|!roomintro
+18:52:45 |raw|<div class="infobox">###Server Staff### <a href="http://pastebin.com/qT9PQz16">http://pastebin.com/qT9PQz16</a></div>
+18:53:06 |l|~HaunterGhost
+18:53:37 Latios83 was promoted to Driver by Nightmare Desire.
+18:53:37 |N|%Latios83|latios83
+18:54:45 |c|%Latios83|Ty
+18:55:32 |c|%Latios83|!roomintro
+18:55:32 |raw|<div class="infobox">###Server Staff### <a href="http://pastebin.com/qT9PQz16">http://pastebin.com/qT9PQz16</a></div>
+18:57:56 |c|~Nightmare Desire|That gets updated every time there's new staff
+18:58:20 |c|%Latios83|Okay
+18:59:20 |userstats|total:2|guests:0| :0|+:0|%:1|@:0|★:0|#:0|&:0|~:1
+19:00:21 |l|%Latios83
+19:00:26 |j|%Latios83
+19:00:43 |L| latios83
+19:01:10 |j| King-Lucario83
+19:01:31 |j|%Latios83
+19:01:39 |c|%Latios83|Hi King-Lucario83 !
+19:01:56 |c| King-Lucario83|Hi Nightmare Desire and Latios83 :)
+19:02:07 |c|~Nightmare Desire|Hello
+19:02:12 |c|~Nightmare Desire|Who are you?
+19:02:19 |c| King-Lucario83|How are you ?
+19:02:34 |c|%Latios83|Fine King-Lucario83 you ?
+19:02:43 |c|~Nightmare Desire|/announce Who are you???
+19:03:01 |c| King-Lucario83|Fine, i am fried to Latios83 :)
+19:03:18 |c|%Latios83|Yes
+19:03:48 |N| King-Lucario83|kinglucario83
+19:04:59 |c|~Nightmare Desire|When will we get more people here?
+19:05:02 |c|~Nightmare Desire|!!!!
+19:06:27 |c|%Latios83|Later :)
+19:09:20 |userstats|total:3|guests:0| :1|+:0|%:1|@:0|★:0|#:0|&:0|~:1
+19:09:24 |c|~Nightmare Desire|My net might die later
+19:09:31 |c|~Nightmare Desire|I can't be up forever
+19:09:46 |c|~Nightmare Desire|You have about 3 hrs
+19:10:51 |j|~HaunterGhost
+19:11:02 |L| kinglucario83
+19:11:15 (Latios83 was demoted to regular user by HaunterGhost.)
+19:11:15 |N| Latios83|latios83
+19:11:23 |c|~HaunterGhost|It's a troll, Nightmare Desire.
+19:11:56 |c|~Nightmare Desire|You cannot demote them without evidence, HaunterGhost
+19:12:02 Latios83 was promoted to Driver by Nightmare Desire.
+19:12:02 |N|%Latios83|latios83
+19:12:17 |c|~HaunterGhost|Okay, but it's a troll.
+19:12:21 |c|~HaunterGhost|A TROLL
+19:12:26 |c|~HaunterGhost|And he asking &.
+19:12:35 |c|~HaunterGhost|[19:49:41] Latios83: & me !
+19:13:12 |c|%Latios83|It's a joke -_-
+19:13:29 |c|~HaunterGhost|No.
+19:13:44 |c|~HaunterGhost|You asking for ranks everytimes.
+19:13:47 |c|~HaunterGhost|And you spamming.
+19:13:51 |c|%Latios83|pff
+19:13:54 |c|~Nightmare Desire|As I said we needed a driver
+19:13:59 |c|~Nightmare Desire|So he got that
+19:14:40 |c|~HaunterGhost|Why? He do nothing for being %!
+19:14:51 |c|%Latios83|pfff
+19:15:05 |c|~Nightmare Desire|He brang people
+19:15:11 |c|~HaunterGhost|Brang=?
+19:15:17 |c|~Nightmare Desire|Yes
+19:15:24 |c|~HaunterGhost|Idj what it means.
+19:15:25 |c|~HaunterGhost|idk*
+19:18:37 |raw|<div class="broadcast-blue"><b>There is no trolling and if a requirement is not met you will be deauthed</b></div>
+19:18:44 |c|~Nightmare Desire|You understand?
+19:19:01 All bans and locks have been lifted by Nightmare Desire.
+19:19:07 |c|~HaunterGhost|._.
+19:19:20 |userstats|total:3|guests:0| :0|+:0|%:1|@:0|★:0|#:0|&:0|~:2
+19:19:26 |c|%Latios83|:)
+19:20:00 |c|%Latios83|Ramdom warn
+19:20:03 |c|~HaunterGhost|:) You're an idiot
+19:20:13 |c|~HaunterGhost|It wasn't a random warn.
+19:20:18 |c|%Latios83|No you.
+19:20:42 |c|~HaunterGhost|You was warned because you speak French.
+19:20:49 |c|~HaunterGhost|And there's a french room.
+19:21:02 |c|%Latios83|Just speak french pm''s
+19:21:10 |c|~HaunterGhost|No.
+19:21:17 |c|%Latios83|Si
+19:21:23 |c|~HaunterGhost|On Server Staff, you speak French.
+19:21:29 Latios83 was warned by HaunterGhost. (ENGLISH I SAID)
+19:21:29 |unlink|latios83
+19:23:31 |c|%Latios83|HaunterGhost is the victim
+19:23:42 Latios83 was muted by HaunterGhost for 7 minutes. (no)
+19:23:42 |unlink|latios83
+19:23:42 |N|!Latios83|latios83
+19:23:58 |c|~HaunterGhost|And he harass me on PM.
+19:24:01 All bans and locks have been lifted by Nightmare Desire.
+19:24:09 Latios83 was unmuted by Nightmare Desire.
+19:24:09 |N|%Latios83|latios83
+19:24:20 |c|~HaunterGhost|He harass me on PMs!
+19:24:27 |c|~Nightmare Desire|Evidence?
+19:24:28 |c|~HaunterGhost|Ban that asshole!
+19:24:49 HaunterGhost was warned by Nightmare Desire. (Swearing)
+19:24:49 |unlink|haunterghost
+19:24:56 Latios83 was banned by HaunterGhost. (Fuck off)
+19:24:56 |unlink|hide|latios83
+19:24:56 |l|‽Latios83
+19:25:07 All bans and locks have been lifted by Nightmare Desire.
+19:25:10 |j|‽Latios83
+19:25:21 |c|~HaunterGhost|NIGHTMARE
+19:25:23 |c|~HaunterGhost|STOP NOW
+19:25:24 |j| Angelpichu
+19:25:25 |N|%Latios83|latios83
+19:25:25 Latios83 was unlocked by Nightmare Desire.
+19:25:27 |c| Angelpichu|hi
+19:25:29 |c|~Nightmare Desire|I said evidence
+19:25:32 |c|~Nightmare Desire|Not bans
+19:25:42 |c|~HaunterGhost|HE DONT STOP TO HARASS ME ON PMS!
+19:25:47 |c|~HaunterGhost|BAN HIM NOW!
+19:25:49 |c|~HaunterGhost|-_-
+19:25:51 |c|~Nightmare Desire|Evidence
+19:25:52 |c|~Nightmare Desire|?
+19:25:58 |c|~HaunterGhost|No.
+19:26:06 |c|~HaunterGhost|But he said "You're a victim".
+19:26:14 |c|~HaunterGhost|And he don't stop!
+19:26:28 |c|~Nightmare Desire|Use /ignore then
+19:26:36 |c|~HaunterGhost|Use /ban Latios83 then
+19:26:39 |c|~Nightmare Desire|It's a commands which is free for use
+19:26:43 |c| Angelpichu|grtas latios
+19:26:49 |c| Angelpichu|for being driver
+19:27:30 |c| Angelpichu|latios take that back
+19:27:31 |c|~Nightmare Desire|Grats
+19:27:39 |c|~Nightmare Desire|He may of lost it already
+19:27:43 |c| Angelpichu|lol
+19:27:46 |c| Angelpichu|^
+19:28:02 |c|~Nightmare Desire|I just need HaunterGhost to provide evidence
+19:28:26 |c| Angelpichu|I belive gohst
+19:28:28 |c|%Latios83|Victim boloss HaunterGhost
+19:28:33 |c|~HaunterGhost|Because I demoted him, and because I said to him "You spamming and trolling".
+19:28:34 |c|~HaunterGhost|Look.
+19:28:40 |c| Angelpichu|latios stfu
+19:28:47 |c|~HaunterGhost|He trolling.
+19:29:11 |c|%Latios83|Hg=History-Geography
+19:29:20 |userstats|total:4|guests:0| :1|+:0|%:1|@:0|★:0|#:0|&:0|~:2
+19:29:23 |c|~HaunterGhost|Now, stop Latios83.
+19:29:26 (Latios83 was demoted to regular user by HaunterGhost.)
+19:29:26 |N| Latios83|latios83
+19:29:35 |c|~HaunterGhost|And if you continue to harass me...
+19:29:39 |c|~HaunterGhost|I'll ban you, understand?
+19:31:48 |c| Latios83|You merit -_-
+19:32:24 |c|~HaunterGhost|No.
+19:32:35 |c|~HaunterGhost|I don't merit the ban.
+19:32:47 |c| Latios83|If
+19:32:50 |c|~HaunterGhost|You merit it, you harass me on PMs.
+19:33:23 |c| Latios83|User HaunterGhost ignored. (Moderator messages will not be ignored.)
+19:33:41 |c|~HaunterGhost|You can't ignore me.
+19:33:44 Latios83 was banned by HaunterGhost.
+19:33:44 |unlink|hide|latios83
+19:33:44 |l|‽Latios83
+19:36:06 |l|~HaunterGhost
+19:36:20 All bans and locks have been lifted by Nightmare Desire.
+19:36:28 |c| Angelpichu|-__-
+19:37:29 Latios83 was unlocked by Nightmare Desire.
+19:37:48 |j| Latios83
+19:39:20 |userstats|total:3|guests:0| :2|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+19:46:07 |c| Latios83|% me ?
+19:46:54 |j|~HaunterGhost
+19:47:32 |c|~HaunterGhost|NO
+19:47:42 |c|~HaunterGhost|Don't ask for ranks.
+19:48:00 |c|~HaunterGhost|And now, Latios83 said me on PMs "Your mom".
+19:49:20 |userstats|total:4|guests:0| :2|+:0|%:0|@:0|★:0|#:0|&:0|~:2
+19:50:30 |c| Angelpichu| wow
+19:51:02 |c|~HaunterGhost|And he said me "sucker of cats".
+19:51:10 |c|~HaunterGhost|lol
+19:51:14 Latios83 was banned by HaunterGhost.
+19:51:14 |unlink|hide|latios83
+19:51:14 |l|‽Latios83
+19:51:38 |c| Angelpichu|ty
+19:56:03 |c|~HaunterGhost|http://prntscr.com/62a6ga
+19:57:17 |c| Angelpichu|lol
+19:57:25 |l| Angelpichu
+19:57:27 |j| Angelpichu
+19:58:04 |l| Angelpichu
+19:58:05 |j| Angelpichu
+19:59:20 |userstats|total:4|guests:1| :2|+:0|%:0|@:0|★:0|#:0|&:0|~:2
+19:59:31 |c|~Nightmare Desire|Ok haunter
+20:05:22 |l|~HaunterGhost
+20:09:20 |userstats|total:3|guests:1| :2|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+20:16:16 |l| Angelpichu
+20:19:20 |userstats|total:2|guests:1| :1|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+20:29:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+20:39:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+20:49:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+20:59:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+21:09:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+21:19:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+21:29:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+21:32:00 |c|~Nightmare Desire|.
+21:34:08 |j| Angelpichu
+21:35:30 |c| Angelpichu|Hi
+21:35:44 |c| Angelpichu|http://92.11.33.54-5080.psim.us/lobby
+21:35:58 |c| Angelpichu|Lol your link^ and server^
+21:36:12 |c| Angelpichu|And with room
+21:36:33 |l| Angelpichu
+21:37:33 |l|~Nightmare Desire
+21:39:21 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0

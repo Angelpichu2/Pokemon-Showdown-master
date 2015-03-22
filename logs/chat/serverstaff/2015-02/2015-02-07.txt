@@ -1,0 +1,128 @@
+09:59:19 NEW CHATROOM: serverstaff
+10:01:36 |j|#Nightmare Desire
+10:09:19 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+10:15:51 |L| nightmaredesire
+10:16:45 |j|#Nightmare Desire
+10:17:00 |L| nightmaredesire
+10:18:51 |j|#Nightmare Desire
+10:19:19 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+10:29:19 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+10:39:19 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+10:49:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+10:59:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+11:02:34 |L| nightmaredesire
+11:02:41 |j| Tukusado
+11:03:07 |N| Tukusado|tukusado
+11:03:19 |L| tukusado
+11:03:30 |j|#Nightmare Desire
+11:07:18 (Nightmare Desire changed the roomintro.)
+11:07:27 (Nightmare Desire changed the roomintro.)
+11:09:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+11:19:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+11:29:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+11:39:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+11:49:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+11:59:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+12:09:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+12:19:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+12:29:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+12:39:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+12:49:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+12:59:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+13:09:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+13:19:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+13:29:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+13:39:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+13:49:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+13:59:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+14:09:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+14:19:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+14:29:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+14:39:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+14:49:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+14:59:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+15:09:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+15:19:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+15:29:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+15:39:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+15:49:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+15:59:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+16:09:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+16:19:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+16:29:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+16:39:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+16:49:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+16:59:14 |l|#Nightmare Desire
+16:59:20 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+17:09:20 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+17:19:20 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+17:29:21 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+17:39:21 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+17:49:21 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+17:59:21 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+18:09:21 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+18:19:21 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+18:29:21 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+18:39:21 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+18:42:35 |j|~HaunterGhost
+18:43:27 (HaunterGhost changed the roomintro.)
+18:43:29 |j| Latios83
+18:43:38 |c| Latios83|Hello
+18:43:41 |l| Latios83
+18:44:11 |j|#Nightmare Desire
+18:44:42 (Nightmare Desire changed the roomintro.)
+18:44:51 (Nightmare Desire changed the roomintro.)
+18:45:07 |c|~HaunterGhost|!roomintro
+18:45:07 |raw|<div class="infobox">/roomintro <b><u>Admins:</b></u> Nightmare Desire, HaunterGhost <b><u>Leaders:</b></u> NoisyMango <b><u>Moderators:</b></u>Tukusado <b><u>Drivers:</b></u></div>
+18:45:21 |c|~HaunterGhost|There's no Drivers.
+18:45:40 |c|#Nightmare Desire|ik
+18:45:50 |c|#Nightmare Desire|That's cuz not many people come here
+18:49:21 |userstats|total:2|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:2
+18:51:08 |j|%Latios83
+18:51:26 (Nightmare Desire changed the roomintro.)
+18:52:02 |c|~HaunterGhost|!roomintro
+18:52:02 |raw|<div class="infobox">/roomintro <b><u>Admins:</b></u> Nightmare Desire, HaunterGhost <b><u>Leaders:</b></u> NoisyMango <b><u>Moderators:</b></u>Tukusado <b><u>Drivers:</b></u> Latios83</div>
+18:52:04 |c|~HaunterGhost|No.
+18:52:07 (Latios83 was demoted to regular user by HaunterGhost.)
+18:52:07 |N| Latios83|latios83
+18:52:28 |c| Latios83| Oh !
+18:52:29 |c|~HaunterGhost|Latios83 is a troll. .-.
+18:52:39 |c|~HaunterGhost|And he don't speak English. :/
+18:52:44 |c| Latios83|No.
+18:53:05 |c| Latios83|HaunterGhost is a troll
+18:53:06 |l|~HaunterGhost
+18:53:37 |N|%Latios83|latios83
+18:55:10 |c|%Latios83|lol
+18:59:21 |userstats|total:2|guests:0| :0|+:0|%:1|@:0|★:0|#:0|&:0|~:1
+19:00:43 |L| latios83
+19:01:31 |j|%Latios83
+19:09:21 |userstats|total:2|guests:0| :0|+:0|%:1|@:0|★:0|#:0|&:0|~:1
+19:11:15 |N| Latios83|latios83
+19:11:26 |j|~HaunterGhost
+19:11:31 |c|~HaunterGhost|No.
+19:12:02 |N|%Latios83|latios83
+19:14:31 |c|%Latios83|Si.
+19:19:21 |userstats|total:3|guests:0| :0|+:0|%:1|@:0|★:0|#:0|&:0|~:2
+19:19:40 Latios83 was warned by HaunterGhost. (English)
+19:19:40 |unlink|latios83
+19:24:56 |l|‽Latios83
+19:29:21 |userstats|total:2|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:2
+19:36:06 |l|~HaunterGhost
+19:39:21 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+19:46:16 |j| Latios83
+19:49:21 |userstats|total:2|guests:0| :1|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+19:51:14 |l|‽Latios83
+19:59:21 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+20:09:21 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+20:19:21 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+20:29:21 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+20:39:21 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+20:49:21 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+20:59:21 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+21:09:21 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+21:19:21 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+21:29:21 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+21:36:18 |j| Angelpichu
+21:36:33 |l| Angelpichu
+21:37:33 |l|#Nightmare Desire
+21:39:21 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
